@@ -1,2 +1,2 @@
 # hello-world
-A tradition
+A tradition of triviality
